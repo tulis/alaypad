@@ -1,0 +1,17 @@
+
+syntax: regexp
+packages/*
+.sln
+.suo
+/obj/*
+/bin/*
+syntax: glob
+[Dd]ebug*/*
+[Rr]elease*/*
+_ReSharper*/*
+*.ReSharper.user
+[Tt]est[Rr]esult*
+[Bb]uild[Ll]og.*
+*.[Pp]ublish.xml
+Thumbs.db
+*.log
